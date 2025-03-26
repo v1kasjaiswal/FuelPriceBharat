@@ -15,8 +15,7 @@ public class FuelPriceAPI {
 
     fun getFuelPrices(api_key: String, state: String, city: String,callback: (String, String, String, String) -> Unit) {
 
-        val url =
-            "https://daily-petrol-diesel-lpg-cng-fuel-prices-in-india.p.rapidapi.com/v1/fuel-prices/today/india/$state/$city"
+        val url = "https://daily-petrol-diesel-lpg-cng-fuel-prices-in-india.p.rapidapi.com/v1/fuel-prices/today/india/$state/$city"
 
         val request = okhttp3.Request.Builder()
             .url(url)
