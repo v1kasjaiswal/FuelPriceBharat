@@ -12,9 +12,13 @@ PS - This was one of my first apps developed in 2023. It showcases my foundation
 
 ### **// App Preview 😎**
 
-|                    Splash Screen                    |                 Fuel Price Screen                  |
-| :-------------------------------------------------: | :------------------------------------------------: |
-| <img src="/screenshots/splash_ss.jpg" width=280 /> | <img src="/screenshots/main_ss.jpg" width=280 /> |
+<div align="center">
+
+| Splash Screen | Fuel Price Screen |
+| :----------: | :--------------: |
+| <img src="/screenshots/splash_ss.jpg" width="300" /> | <img src="/screenshots/main_ss.jpg" width="300" /> |
+
+</div>
 
 ---
 
