@@ -4,9 +4,13 @@
 
 </div>
 
-This is one of my first Kotlin Android XML Layout projects⛽. It is a simple Fuel Price application that is designed to provide fuel prices for Petrol, Diesel, CNG, LPG based on the selected city using RapidAPI. This application features a smooth XML based UI design with two primary screens, a splash screen✨ and a fuel price details🗒️ screen that displays up-to-date fuel rates. This project strengthened my skills in Kotlin, Android XML, API integration, and UI/UX design, helping me build a more engaging and efficient mobile application📱.
+<div align="justify">
+  
+This is one of my first Kotlin Android XML Layout projects. It is a simple Fuel Price application that is designed to provide fuel prices for Petrol, Diesel, CNG, LPG based on the selected city using RapidAPI. This application features a smooth XML based UI design with two primary screens, a splash screen and a fuel price details screen that displays up-to-date fuel rates. This project strengthened my skills in Kotlin, Android XML, API integration, and UI/UX design, helping me build a more engaging and efficient mobile application.
 
-PS - This was one of my first apps developed in 2023. It showcases my foundational skills in Kotlin, Android development as well as my ability to learn continuously by building real-world applications🔥
+PS - This was one of my first apps developed in 2023. It showcases my foundational skills in Kotlin, Android development as well as my ability to learn continuously by building real-world applications.
+
+</div>
 
 ---
 
